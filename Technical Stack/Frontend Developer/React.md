@@ -21,7 +21,7 @@ React is an open-source JavaScript library for building user interfaces. It is m
 [Hooks](/Technical%20Stack/Mobile%20Developer/React.md#hooks)
 -------------------------------------------------------------
 
-*   [ ] You can use <code>useState</code> and <code>useEffect</code> hooks. [:books:](https://www.valentinog.com/blog/hooks/)
+*   [ ] You can use <code>useState</code> and <code>useEffect</code> hooks. [:books:](https://reactjs.org/docs/react-api.html#hooks) 
 *   [ ] You know how hook dependency array works. [:books:](https://medium.com/better-programming/understanding-the-useeffect-dependency-array-2913da504c44)
 *   [ ] You know how to write a custom React hook. [:books:](https://reactjs.org/docs/hooks-custom.html)
 *   [ ] You understand pros and cons of using <code>useCallback</code> hook. [:books:](https://kentcdodds.com/blog/usememo-and-usecallback/)
